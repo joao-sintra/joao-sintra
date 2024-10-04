@@ -1,5 +1,5 @@
 # 💫 About Me:
-College student at Politécnico de Leiria, pursuing a TESP in Programming. Passionate about coding, problem-solving, and continuous learning. Currently exploring the realms of software development. 🚀<br>
+College student at Politécnico de Leiria, pursuing a degree in computer engineering. Passionate about coding, problem-solving, and continuous learning. Currently exploring the realms of software development. 🚀<br>
 
 
 ## 🌐 Socials:
