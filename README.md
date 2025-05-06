@@ -1,6 +1,7 @@
 # 💫 About Me:
-College student at Politécnico de Leiria, pursuing a degree in computer science. Passionate about coding, problem-solving, 3D Printing, and continuous learning. Currently exploring the realms of software development. 🚀<br>
-
+- :school: Studying Computer Science on **IPL, Leiria**
+- :innocent:  Passionate about coding
+- :cookie: Interested in Studying, Programming, 3D Printing and in the Maker World
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-sintra) 
