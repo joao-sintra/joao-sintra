@@ -1,5 +1,5 @@
 # 💫 About Me:
-College student at Politécnico de Leiria, pursuing a degree in computer science. Passionate about coding, problem-solving, and continuous learning. Currently exploring the realms of software development. 🚀<br>
+College student at Politécnico de Leiria, pursuing a degree in computer science. Passionate about coding, problem-solving, 3D Printing, and continuous learning. Currently exploring the realms of software development. 🚀<br>
 
 
 ## 🌐 Socials:
